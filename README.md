@@ -3,4 +3,4 @@ Java ile matematiksel islemler kullanilarak ve kullanicidan deger alinarak ucgen
 
 ### Ekran Resmi
 
-![](UcgenAlani.iml)
+![](ucgen.png)
